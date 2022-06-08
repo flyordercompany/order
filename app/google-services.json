@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814997563619",
+    "project_id": "flyorder-c3863",
+    "storage_bucket": "flyorder-c3863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814997563619:android:3c68540235f24016ecfdd6",
+        "android_client_info": {
+          "package_name": "com.example.order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814997563619-euvfj88e7bg6lbt9vbca8psch994inni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5I68Z4IGrWBBHuKvv3jFarp0qnk1TUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814997563619-euvfj88e7bg6lbt9vbca8psch994inni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

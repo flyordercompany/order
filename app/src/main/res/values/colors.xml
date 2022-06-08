@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#fef200</color>
+    <color name="purple_500">#fef200</color>
+    <color name="purple_700">#fef200</color>
+    <color name="teal_200">#fef200</color>
+    <color name="teal_700">#fef200</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#ffff</color>
+    <color name="btnRed">#9f0000</color>
+    <color name="successGreen">#11A10c</color>
+    <color name="fbcolor">#3c62ac</color>
+    <color name="googlecolor">#C3463B</color>
+
+
+</resources>
